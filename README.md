@@ -19,8 +19,8 @@ To create a simple calculator built with React.
 
 ## Output:
 
+![image](https://github.com/SaiDarshan2003/React-Calculators/assets/94692595/7bdf34b0-513c-4e04-acd2-5f34524921cd)
 
-![image](https://github.com/SaiDarshan2003/React-Calculators/assets/94692595/d80a0eeb-20cb-4735-ae79-2d05c077226e)
 
 ## Result:
 Therefore we have succesfully created a simple calculator built with React.
