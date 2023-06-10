@@ -1,7 +1,5 @@
 # Experiment-6
 
-## Create a simple calculator built with React
-
 ## Aim:
 To create a simple calculator built with React.
 
